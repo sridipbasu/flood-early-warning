@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 {
   "sentinel_threshold": 0.34,
   "confirm_threshold": 0.51
 }
+=======
+{
+  "sentinel_threshold": 0.34,
+  "confirm_threshold": 0.51
+}
+>>>>>>> a2e752998f811df600b0be1946db4c6124e1cc3b

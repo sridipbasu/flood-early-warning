@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "features": [
     "Rain_1d",
@@ -18,3 +19,25 @@
   "prediction_target": "Flood_future",
   "horizon_days": 1
 }
+=======
+{
+  "features": [
+    "Rain_1d",
+    "Rain_3day",
+    "Rain_7day",
+    "upstream_rain_3d_mm",
+    "SoilMoisture",
+    "Month",
+    "Monsoon",
+    "mean_slope_deg",
+    "Pct_Builtup",
+    "mean_annual_rainfall_mm",
+    "elevation_range_m",
+    "mean_twi",
+    "mean_hand_m",
+    "soil_clay_pct"
+  ],
+  "prediction_target": "Flood_future",
+  "horizon_days": 1
+}
+>>>>>>> a2e752998f811df600b0be1946db4c6124e1cc3b
